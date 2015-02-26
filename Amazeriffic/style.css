@@ -38,13 +38,19 @@ main{
 }
 
 main h2{
-	color:green;
+	color:midnightblue;
 	font-size: 175%;
 }
 
 h3{
-	color:blue;
+	color:brown;
 	font-size: 125%;
+}
+
+main .answer{
+	color: teal;
+	font-size: 100%
+	padding-bottom: 35px;
 }
 
 main .goods{
@@ -68,5 +74,9 @@ footer .sitemap{
 	width: 285px;
 	padding-top: 40px;
 	padding-bottom: 25px;
+}
+
+a:visited{
+	color: purple;
 }
 
