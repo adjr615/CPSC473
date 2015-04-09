@@ -1,0 +1,82 @@
+
+body{
+	background: #f9e933;
+	font-size: 100%;
+}
+
+header, main,  footer {
+	min-width: 855px;
+}
+
+header .container, main .container, footer .container {
+    max-width: 855px;
+    margin: auto;
+}
+
+header{
+	background: white;
+	overflow: auto;
+}
+
+header h1{
+	float: left;
+	width: 570px;
+	text-align: left;
+	padding-top: 20px;
+	padding-bottom: 30px;
+	font-size: 300%;
+}
+
+header nav{
+	float: right;
+	width: 285px;
+}
+
+main{
+	background: white;
+	overflow: auto;
+}
+
+main h2{
+	color:midnightblue;
+	font-size: 175%;
+}
+
+h3{
+	color:brown;
+	font-size: 125%;
+}
+
+main .answer{
+	color: teal;
+	font-size: 100%
+	padding-bottom: 35px;
+}
+
+main .goods{
+	min-height: 450px;
+}
+
+main .lightbulb{
+	float: right;
+	width: 285px;
+}
+
+footer .contact{
+	float: left;
+	width: 285px;
+	padding-top: 40px;
+	padding-bottom: 25px;
+}
+
+footer .sitemap{
+	float: right;
+	width: 285px;
+	padding-top: 40px;
+	padding-bottom: 25px;
+}
+
+a:visited{
+	color: purple;
+}
+
